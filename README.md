@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://pokereadme.murilonoguez.com.br/api?user=liviaacobrazil&pokes=1,4,7,25,94,282" />
+  <img src="https://pokereadme.murilonoguez.com.br/api?user=liviaacobrazil&pokes=25,698,905,280,282,648" />
 </div>
